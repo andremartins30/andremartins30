@@ -1,4 +1,4 @@
-### Olá Me chamo André Martins! 👋
+### Olá! Me chamo André Martins! 👋
 
 - 🔭 Estou trabalhando com Javascript no Back-end.
 - 🌱 Estou aprendendo NodeJS, Express e MongoDB.
