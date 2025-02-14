@@ -1,9 +1,12 @@
-### Olá! Me chamo André Martins! 👋
+### 🚀 Olá! Me chamo André Martins! 👋
 
-- 🔭 Trabalhando com Javascript no Back-end.
-- 🌱 Aprendendo NodeJS, Express e MongoDB.
-- 📫 Fale comigo no andre.martins30@hotmail.com ou https://www.linkedin.com/in/andremartins30/
-
+💻 Desenvolvedor Full Stack com experiência em Angular, JavaScript, TypeScript e Node.js.
+<br>
+🛠️ Trabalho com MySQL, MongoDB, React, HTML, CSS e desenvolvimento de ERPs e CRMs.
+<br>
+📚 Sempre aprendendo e explorando novas tecnologias.
+<br>
+📫 Entre em contato: andre.martins30@hotmail.com | [LinkedIn](https://www.linkedin.com/in/andremartins30)
 </br>
   
 <p align="center">
