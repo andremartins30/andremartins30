@@ -2,13 +2,10 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+André+Martins!+👋;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia!;Sempre+explorando+novas+possibilidades!+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+André+Martins!+👋;-Desenvolvedor+Full+Stack+apaixonado+por+tecnologia!;Sempre+explorando+novas+possibilidades!+🚀)
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/andremartins30/andremartins30/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
@@ -102,21 +99,6 @@ const andre = {
 [![André's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/andremartins30?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
-
----
-
-## 📅 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-💬 Programming Languages:
-JavaScript   8 hrs 42 mins  ████████████▓░░░░░░░░░░░░   50.23% 
-TypeScript   3 hrs 15 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.78% 
-HTML         2 hrs 30 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.45% 
-CSS          1 hr 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12% 
-SQL          1 hr 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   6.42%
-```
-<!--END_SECTION:waka-->
 
 ---
 
